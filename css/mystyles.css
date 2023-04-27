@@ -1,0 +1,38 @@
+ul{
+    font-size: 20px;
+    list-style-position: inside;
+}
+p {
+    font-weight: bold;
+}
+
+#top {
+    text-decoration: underline;
+}
+
+.frfr {
+    font-style: italic;
+    color: rgb(255, 118, 139);
+}
+
+body {
+    background-color: rgb(249, 249, 249);
+    color:darkslategrey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-small;
+    border: 5px solid black;
+    margin: 20px;
+    padding: 30px;
+    text-align: center;
+}
+
+ol{
+    list-style-position: inside;
+    text-align:center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
